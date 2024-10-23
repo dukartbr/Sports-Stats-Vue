@@ -8,9 +8,6 @@
 .tag {
   color: #999;
 }
-.title {
-  font-size: 1.15rem;
-}
 .searchBoxItem:hover {
   background-color: #ff8352;
 }

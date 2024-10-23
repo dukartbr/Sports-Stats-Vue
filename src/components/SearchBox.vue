@@ -9,13 +9,15 @@ import SearchBoxItem from "./SearchBoxItem.vue";
   top: 3rem;
   width: 35vw;
   max-width: 800px;
+  min-height: 30vh;
   max-height: 80vh;
   background-color: #455552;
   border: 2px solid #52ffe2;
   box-shadow: 0px 15px 30px #000;
   overflow: scroll;
   padding: 10px 0px;
-  border-radius: 18px;
+  border-radius: 16px;
+  transition: height 0.25s;
 }
 </style>
 
